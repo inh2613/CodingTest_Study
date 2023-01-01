@@ -11,3 +11,4 @@
 |[3](https://github.com/inh2613/CodingTest_Study/tree/main/No_3)|브루트포스|22.11.27~22.12.03||
 |[4](https://github.com/inh2613/CodingTest_Study/tree/main/No_4)|집합과 맵|22.12.03~||
 |[5](https://github.com/inh2613/CodingTest_Study/tree/main/No_5)|백트래킹|22.12.14~||
+|[6](https://github.com/inh2613/CodingTest_Study/tree/main/No_6)|동적계획법1|23.01.01~||
