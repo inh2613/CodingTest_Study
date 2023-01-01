@@ -34,14 +34,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Baekjoon/backTracking" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Baekjoon/DynamicProgramming" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\seoye\Desktop\CodingTest_Study\No_5\백준_14889_스타트와 링크" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.서예진_14889">
+  <component name="RunManager" selected="Python.서예진_9663">
     <configuration name="서예진_14888" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="No_5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.서예진_9663" />
         <item itemvalue="Python.서예진_14889" />
         <item itemvalue="Python.서예진_14888" />
-        <item itemvalue="Python.서예진_9663" />
         <item itemvalue="Python.서예진_15652" />
         <item itemvalue="Python.서예진_15651" />
       </list>
