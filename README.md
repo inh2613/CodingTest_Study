@@ -1,4 +1,4 @@
-# CodingTestStudy
+﻿# CodingTestStudy
 코딩테스트스터디_백준+프로그래머스
 
 
@@ -13,3 +13,5 @@
 |[5](https://github.com/inh2613/CodingTest_Study/tree/main/No_5)|백트래킹|22.12.14~||
 |[6](https://github.com/inh2613/CodingTest_Study/tree/main/No_6)|동적계획법1|23.01.01~||
 |[7](https://github.com/inh2613/CodingTest_Study/tree/main/No_7)|누적 합|23.01.19~||
+|[8](https://github.com/inh2613/CodingTest_Study/tree/main/No_8)|그리디알고리즘|23.02.02~||
+
