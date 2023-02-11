@@ -14,4 +14,4 @@
 |[6](https://github.com/inh2613/CodingTest_Study/tree/main/No_6)|동적계획법1|23.01.01~||
 |[7](https://github.com/inh2613/CodingTest_Study/tree/main/No_7)|누적 합|23.01.19~||
 |[8](https://github.com/inh2613/CodingTest_Study/tree/main/No_8)|그리디알고리즘|23.02.02~||
-
+|[9](https://github.com/inh2613/CodingTest_Study/tree/main/No_9)|스택|23.02.11~||
